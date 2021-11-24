@@ -1,0 +1,21 @@
+body{
+  background: grey;
+}
+td{
+  height:100px;
+  width:100px;
+
+
+}
+button{
+  height:100px;
+  width:100px;
+  border-radius: 20px;
+  background: rgb(255,165,0);
+}
+.turnblue{
+  background: blue;
+}
+.turnRed{
+  background: red;
+}
